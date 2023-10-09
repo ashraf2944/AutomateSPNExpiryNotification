@@ -168,5 +168,6 @@ div(div(div(mul(sub(outputs('EndTimeTickValue'),outputs('StartTimeTickValue')),1
 And below is the resulting e-mail received when the flow runs on its scheduled time.  Included is a hyperlink for each application that takes you directly to where you need to update the client secret and/or certificates for each application within the Azure portal. 
 
   
-#   A u t o m a t e S P N E x p i r y N o t i f i c a t i o n  
+#   A u t o m a t e S P N E x p i r y N o t i f i c a t i o n 
+ 
  
